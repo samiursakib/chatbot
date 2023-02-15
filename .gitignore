@@ -13,7 +13,5 @@ npm-debug.log
 yarn-error.log
 /routes
 /resources
-/tests
-/public
 /database
 server.php
